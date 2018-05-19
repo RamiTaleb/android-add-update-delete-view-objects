@@ -1,7 +1,5 @@
 package com.example.rami.picturetester;
 
-import java.sql.Blob;
-
 public class Thing {
 
     private int id;

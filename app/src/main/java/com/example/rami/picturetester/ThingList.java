@@ -24,10 +24,6 @@ import android.widget.EditText;
 import android.widget.GridView;
 import android.widget.ImageView;
 import android.widget.Toast;
-
-import com.example.rami.picturetester.Thing;
-import com.example.rami.picturetester.ThingListAdapter;
-
 import java.io.FileNotFoundException;
 import java.io.InputStream;
 import java.util.ArrayList;
